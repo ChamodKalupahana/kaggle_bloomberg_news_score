@@ -1,3 +1,5 @@
+<img src="site-logo.svg" width=250>
+
 # PSL Week Prediction using Bloomberg News
 
 This repository contains a Python notebook that explores and predicts PSL (Pakistan Super League) week sentiments using Bloomberg News data. The notebook utilizes TensorFlow and LSTM (Long Short-Term Memory) networks for the prediction task.
